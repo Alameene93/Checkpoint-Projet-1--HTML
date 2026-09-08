@@ -1,0 +1,78 @@
+body {
+font-family:roboto;
+margin:0;
+}
+
+nav {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: rgb(11, 152, 35);
+    font-weight: bold;
+}
+img {
+    width: 150px;
+    height: 150px; 
+    border-radius: 2px; 
+}
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px; 
+}
+h2 {
+    text-align: center;
+    color: orange;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.contact {
+    color: rgb(51, 0, 255);
+    text-align: center;
+    font-weight: bold;
+}
+#parcours {
+    color: rgb(210, 11, 107);
+    text-align: center;
+    font-weight: bold;
+}
+.travail {
+    color: rgb(152, 11, 51);
+    text-align: center;
+    font-weight: bold;
+}
+#button {
+    background-color: rgb(22, 236, 47);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.form {
+    color: rgb(152, 126, 11);
+    text-align: center;
+    font-weight: bold;
+}
+#copyright {
+    color: rgb(5, 104, 65);
+    text-align: center;
+    font-weight: bold;
+}
